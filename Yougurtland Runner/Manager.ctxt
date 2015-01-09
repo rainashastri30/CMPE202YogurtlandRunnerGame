@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.params=
-comment0.target=Manager()
-comment1.params=
-comment1.target=CollectibleWrapper\ getRandomCollectible()
-comment2.params=world
-comment2.target=ObstacleWrapper\ getRandomObstacle(greenfoot.World)
-numComments=3
